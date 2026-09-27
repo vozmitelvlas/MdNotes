@@ -21,6 +21,6 @@ React · TypeScript · Vite · Mantine · React Router · Dexie · EasyMDE · Re
 
 ### Demo
 
-[Открыть приложение](https://md-notes-7a59f.web.app/)
+[Открыть приложение](https://md-notes-414a7.web.app/)
 * email: guest@mail.ru
 * password: password
