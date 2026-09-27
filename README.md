@@ -1,4 +1,4 @@
-# Md Notes
+# Md Notes (pwa)
 
 Упрощённая копия приложения «Заметки» из macOS, созданная на React + TypeScript.
 
