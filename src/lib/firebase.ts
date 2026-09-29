@@ -3,12 +3,12 @@ import {getAuth} from "firebase/auth";
 import {getFirestore} from "firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDMkdLRboUuzdDvmzxL43QD1DprmwIZiSQ",
-    authDomain: "md-notes-7a59f.firebaseapp.com",
-    projectId: "md-notes-7a59f",
-    storageBucket: "md-notes-7a59f.firebasestorage.app",
-    messagingSenderId: "581590206942",
-    appId: "1:581590206942:web:6ede87f775a2b04280f54f"
+    apiKey: "AIzaSyAnj9nTDYjdbpPDa_CtkkSXr-6J3ZWDfrw",
+    authDomain: "md-notes-414a7.firebaseapp.com",
+    projectId: "md-notes-414a7",
+    storageBucket: "md-notes-414a7.firebasestorage.app",
+    messagingSenderId: "850865858414",
+    appId: "1:850865858414:web:d5d1d935ec4df936efc37f"
 };
 
 const app = initializeApp(firebaseConfig);
